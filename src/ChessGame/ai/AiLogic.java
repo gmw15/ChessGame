@@ -1,7 +1,7 @@
 /**
  * This class is used to implement my computer controlled players using
  * AI. Here is also where I validated the current situation of the game and
- * search for the best move in that state and search for the best move using 2 layers
+ * search for the best possible move in that state and search for the best move using 2 layers
  * in my negamax algorithm, and generate the valid moves of course.
  */
 
